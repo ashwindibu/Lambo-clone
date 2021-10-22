@@ -1,0 +1,593 @@
+body{
+    margin:0px;
+}
+
+#maindiv
+{
+    
+    border: solid crimson;
+    border-width: 0px;
+    border-radius: 0px;
+
+    width: 100%;
+    height:100cm;
+    background-color:dimgray;
+
+}
+.headerdiv
+{
+    position: fixed;
+    width :100%;
+    height: 94px;
+    background-color:#202020;
+    z-index: 9;
+    
+}
+
+.headerlogodiv
+{
+    float: left;
+    width: 60px;
+    margin-left: 60px;
+    margin-top: 16px;
+}
+.headerlogo
+{
+    width: 60px;
+}
+.headermenu
+{
+    width: 100%;
+
+}
+.leftheadmenu
+{
+    float: left;
+    width: 500px ;
+    font-size: 15px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.models
+{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    margin-left: 10px;
+    font-weight: lighter;
+
+}
+.customsolutions
+{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    margin-left: 25px;
+    font-weight: lighter;
+}
+.ownership
+{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    margin-left: 25px;
+    font-weight: lighter;
+}
+.motorsport
+{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    margin-left: 25px;
+    font-weight: lighter;
+
+}
+
+
+.middleheadmenu
+{
+    float: left;
+    width: 299px;
+    margin-left: 315px;
+    margin-top: 20px;
+    font-size: 15px;
+
+}
+.dealerships
+{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    margin-left: 25px;
+    font-weight: lighter;
+}
+.museum
+{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    margin-left: 25px;
+    font-weight: lighter;
+}
+.store
+{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    margin-left: 25px;
+    font-weight: lighter;
+}
+
+
+
+.rightheadmenu
+{
+    float: left;
+    width: 150px;
+    margin-left: 40px;
+    margin-top: 33px;
+}
+.msgicon
+{
+    float: left;
+    width: 27px;
+    margin-left: 10px;
+}
+.searchicon
+{
+    float: left;
+    width: 27px;
+    margin-left: 25px;
+}
+.menuicon
+{
+    float: left;
+    margin-left: 24px;
+    
+}
+.menubar
+{
+    width: 27px;
+    height: 2px;
+    background-color: white;
+    margin: 5px ;
+}
+
+
+
+.herodiv
+{
+   width: 100%;
+    height: 20cm;
+    background-color:aqua;
+}
+
+.heroimg
+{
+    width: 100%;
+    margin-top: -98px;
+}
+.herotext
+{
+    margin-top: -554px;
+    margin-left: 120px;
+}
+.hero1text1
+{
+    font-family: Roboto,Helvetica Neue,Arial;
+    font-size: 38px;
+    color: aliceblue;
+    margin-top: 0px;
+    margin-bottom: 19px;
+    margin-left: 0px;
+
+}
+.hero1text2
+{
+    font-family: Roboto,Helvetica Neue,Arial;
+    font-size: 100px;
+    color: aliceblue;
+    margin-top:0px;
+    margin-bottom: 0px;
+    letter-spacing: -4px;
+}
+.hero1text3
+{
+    font-family: Roboto,Helvetica Neue,Arial;
+    font-size: 100px;
+    color: aliceblue;
+    margin-top: -10px;
+    margin-bottom: 0px;
+}
+.hexagonicon
+{
+    width: 95px;
+    transform:rotate(90deg);
+}
+
+.div2
+{
+    width: 100%;
+    height: 770px;
+    background-color: black;
+    background-image: url(/image/hp_urus_slider.jpg);
+    width:90%;
+    height: 650px;
+    background-position: center;
+    padding-top: 100px;
+    padding-left: 148px;
+}
+.div2text1
+{
+    margin-top: 0px;
+    font-family: Roboto,Helvetica Neue,Arial;
+    color: aliceblue;
+    font-size: 38px;
+    font-weight: 600;
+}
+.hexagon2
+{
+    width: 60px;
+    transform:rotate(90deg);
+    margin-top: 20px;
+}
+.hexagon3
+{
+    width: 60px;
+    transform:rotate(90deg);
+    margin-left: 16px;
+    margin-top: 20px;
+}
+.div2text2
+{
+    font-family: Roboto,Helvetica Neue,Arial;
+    color: aliceblue;
+    font-size: 105px;
+    margin-top: 70px;
+    font-weight: 600;
+}
+.div2text3
+{
+    font-family: Roboto,Helvetica Neue,Arial;
+    color: aliceblue;
+    font-size: 30px;
+    font-weight: 600;
+}
+.hexagon4
+{
+    width: 60px;
+    transform:rotate(90deg);
+    margin-top: 50px;
+}
+
+
+
+
+.div3
+{
+    width: 100%;
+    height: 52cm;
+    background-color: white;
+    padding-top: 6px;
+
+}
+.div3text1
+{
+    font-family: Roboto,Helvetica Neue,Arial;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 2rem;
+    letter-spacing: -0.100rem;
+    margin-left: 9.5rem;
+    margin-top: 30px;
+}
+.div3text2
+{
+    font-family: Roboto,Helvetica Neue,Arial;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 6.7rem;
+    letter-spacing: -0.100rem;
+    margin-left: -52px;
+    text-align: center;
+}
+.div3img1
+{
+    max-width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.content1
+{
+    margin-top: 70px;
+    margin-left: 151px;
+}
+.div3text3
+{
+    font-family: Roboto,Helvetica Neue,Arial;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.753);
+}
+
+.btn1
+{
+    margin-top: 20px;
+    width: 90px;
+    height: 25px;
+    border: none;
+    color: black;
+    cursor: pointer;
+    text-transform: uppercase;
+    background-color: whitesmoke;
+    font-family: Roboto,Helvetica Neue,Arial;
+    margin-bottom: 25px;
+    
+    
+}
+.btn1:hover
+{
+    background-color: black;
+    color: white;
+}
+.div3text4
+{
+    margin-top: 0px;
+    font-family: Roboto,Helvetica Neue,Arial;
+    text-transform:uppercase;
+    font-weight: bold;
+    font-size: 1.9rem;
+
+}
+
+.btn2
+{
+    font-size: 17px;
+    width: 200px;
+    height: 50px;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.863);
+    text-transform: uppercase;
+    border-radius: 0px;
+    border-width: 1px;
+    border-color: rgba(0, 0, 0, 0.233);
+    background-color: white;
+    margin-left: 226px;
+    cursor: pointer;
+}
+.btn2:hover
+{
+    background-color: black;
+    color: white;
+}
+.div3text5
+{
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.74);
+    font-family: Roboto,Helvetica Neue,Arial;
+}
+.div3img2
+{
+    float: left;
+    margin-top: 90px;
+    width: 46%;
+}
+.div3text6
+{
+    font-family: Roboto,Helvetica Neue,Arial;
+    margin-top: 94px;
+    margin-left: 675px;
+}
+.div3text7
+{
+    float: left;
+    width: 582px;
+    margin-bottom: -66px;
+    margin-top: 87px;
+    margin-left: 50px;
+    font-size: 34px;
+    font-family: Roboto,Helvetica Neue,Arial;
+    font-weight: bold;
+}
+.btn3
+{
+    font-size: 17px;
+    width: 200px;
+    height: 50px;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.863);
+    text-transform: uppercase;
+    border-radius: 0px;
+    border-width: 1px;
+    border-color: rgba(0, 0, 0, 0.233);
+    background-color: white;
+    margin-top: 110px;
+    margin-left: 50px;
+    cursor: pointer;
+}
+.btn3:hover
+{
+    background-color: black;
+    color: white;
+}
+
+
+
+
+
+.div3text8
+{
+    font-family: Roboto,Helvetica Neue,Arial;
+    margin-top: 94px;
+    margin-left: 675px;
+}
+.div3text9
+{
+    float: left;
+    width: 582px;
+    margin-bottom: -84px;
+    margin-top: 64px;
+    margin-left: 50px;
+    font-size: 34px;
+    font-family: Roboto,Helvetica Neue,Arial;
+    font-weight: bold;
+}
+
+.button4
+{
+    font-size: 17px;
+    width: 200px;
+    height: 50px;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.863);
+    text-transform: uppercase;
+    border-radius: 0px;
+    border-width: 1px;
+    border-color: rgba(0, 0, 0, 0.233);
+    background-color: white;
+    margin-top: 110px;
+    margin-left: 50px;
+    cursor: pointer;
+}
+.button4:hover
+{
+    background-color: black;
+    color: white;
+}
+
+.btn5
+{
+    width: 240px;
+    height: 50px;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.836);
+    border: none;
+    text-transform: uppercase;
+    font-family: Roboto,Helvetica Neue,Arial;
+    margin-top: 105px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.btn5:hover
+{
+    background-color: white;
+    color: black;
+    border: solid 1px black;
+}
+
+.div4
+{
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    height: 306px;
+    padding-bottom: 0px;
+    padding-top: 25px;
+}
+.footertext1
+{
+    float: left;
+    width: 1000px;
+    color: white;
+    font-weight: bold;
+    font-family: Roboto,Helvetica Neue,Arial;
+    margin-top: 0px;
+}
+.foottext1
+{
+    margin-left: 40px;
+}
+.foottext2
+{
+    margin-left: 30px;
+}
+.foottext3
+{
+    margin-left: 30px;
+}
+.foottext4
+{
+    margin-left: 30px;
+}
+.foottext5
+{
+    margin-left: 30px;
+}
+.foottext6
+{
+    margin-left: 30px;
+}
+.foottext7
+{
+    margin-left: 30px;
+}
+.footerlogo
+{
+    float: left;
+    margin-top: -4px;
+    margin-left: 225px;
+    width: 290px;
+    
+}
+/* .facebook
+{
+    
+}
+.instagram
+{
+
+} */
+.twitter
+{
+ width:35px;
+}
+/* .linkedin
+{
+
+} */
+
+.footertext2
+{
+    color: rgba(255, 255, 255, 0.801);
+    margin-top: 65px;
+    margin-left: 39px;
+    width: 1241px;
+    font-size: 14px;
+    font-weight: lighter;
+}
+.foottext8
+{
+    font-family: Roboto,Helvetica Neue,Arial;
+}
+.foottext9
+{
+    margin-top: 45px;
+    font-family: Roboto,Helvetica Neue,Arial;
+    font-size: 16px;
+    font-weight: lighter;
+}
+.footerdiv
+{
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    height: 28px;
+    padding-left: 0px;
+    padding-top: 5px;
+    position: fixed;
+    bottom: 0;
+    z-index: 8;
+
+}
+.footertextfinish
+{
+    color: white;
+    margin-top: 0px;
+    margin-left: 50px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Roboto,Helvetica Neue,Arial;
+}
